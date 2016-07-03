@@ -1,0 +1,125 @@
+.box{
+    margin:0 auto;
+    border-radius: 30px;
+    border: 3px solid rgba(255,120,0,1);
+    padding-bottom: 50px;
+}
+.hat{
+    border-top-left-radius:26px;
+    border-top-right-radius: 26px;
+}
+.banner img{
+    width:100%;
+}
+.c3title{
+    color:rgba(255,120,0,1);
+    margin-left: 2%;
+    font-weight: bold;
+
+}
+
+
+.cmtbutton{
+    background-color: transparent !important;
+    border-color:rgba(255,120,0,1) !important;
+    color: rgba(255,120,0,1) !important;
+}
+
+.cmtbutton:hover{
+    background-color: rgba(255,120,0,1) !important;
+    color: #ffffff !important;
+}
+.cmtbutton:focus{
+    background-color:  rgba(255,120,0,1) !important;
+    color: #ffffff !important;
+}
+.cmtbutton:active{
+    background-color: rgba(255,120,0,1) !important;
+    color: #ffffff !important;
+}
+.cmtbutton:visited{
+    color: rgba(255,120,0,1) !important;
+}
+.cmtbutton:visited:hover{
+    background-color:  rgba(255,120,0,1) !important;
+    color: #ffffff !important;
+}
+
+.cbutton{
+    background-color: transparent;
+    color: rgba(250,250,250,1);
+    border-color: rgba(250,250,250,1);
+}
+
+.cbutton:hover{
+    background-color: rgba(255,120,0,1);
+    color: #ffffff;
+}
+.cbutton:focus{
+    background-color:rgba(255,120,0,1);
+    color: #ffffff;
+}
+.cbutton:active{
+    background-color: rgba(255,120,0,1);
+    color: #ffffff;
+}
+.cbutton:visited:hover{
+    background-color: rgba(255,120,0,1);
+    color: #ffffff;
+}
+.display a{
+     display: inline-block;
+     width :80%;
+     background-repeat:no-repeat;
+     background-size: cover;
+ }
+.display img{
+    box-shadow: 3px 5px 0px rgba(255,120,0,1);
+}
+.display p{
+    font-family:'shark';
+}
+.display2 a{
+    margin-top: 15px;
+    margin-left: 10px;
+    display: inline-block;
+    width :100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.display2 img {
+    box-shadow: 3px 5px 0px rgba(255,120,0,1);
+}
+.pagination>.disabled>a, .pagination>.disabled>a:focus, .pagination>.disabled>a:hover, .pagination>.disabled>span, .pagination>.disabled>span:focus, .pagination>.disabled>span:hover{
+    color:rgba(255,120,0,1) !important;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover{
+    background-color: rgba(255,120,0,1) !important;
+    border-color: rgba(255,120,0,1) !important;
+}
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover{
+    color:rgba(255,120,0,1) !important;
+}
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover{
+    color: rgba(255,120,0,1) !important;
+}
+.displaycomments a{
+    display: inline-block;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.timestamp{
+    color: rgba(76,76,76,1);
+    font-size: 10px;
+}
+.discount{
+    margin-left: 70px;
+    color:#000000 ;
+    font-size:20px;
+}
+.discount:hover{
+    transition: all 0.5s;
+    color:#000000 ;
+    text-decoration: none !important;
+}

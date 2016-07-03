@@ -1,0 +1,222 @@
+.banner img{
+    width:100%;
+}
+.showicon{
+    position: absolute;
+    width: 200px;
+    height: auto;
+    left:50%;
+    top:40%;
+    margin-left:-100px;
+    margin-top:-50px;
+}
+
+.showicon img{
+    border: 10px solid white;
+    box-shadow: 0px 0px 0px 3px rgba(26,192,234,1);
+    display:block;
+    margin:0 auto;
+}
+.showicon h2{
+    display:block;
+    margin:0 auto;
+}
+
+.title h3{
+    font-weight: bold;
+}
+.title a{
+    width:148px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.showwell{
+    border-left:2px solid rgba(26,192,234,1);
+    border-right:2px solid rgba(26,192,234,1);
+}
+.showwell-left{
+    border-left:2px solid rgba(26,192,234,1);
+}
+.partbanner{
+    width: 200px;
+}
+.box{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: 3px solid rgba(255,183,0,1);
+}
+.btngroup button{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.attribute{
+    border-right:1px solid #000000;
+}
+.attribute p{
+    color:  rgba(255,183,0,1);
+    font-weight: bold;
+    letter-spacing: 2px;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+.attribute2 p{
+    color:  rgba(255,183,0,1);
+    font-weight: bold;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+.joinbutton{
+    background-color: transparent;
+    border-color: rgba(26,192,234,1);
+    color:  rgba(26,192,234,1);
+}
+.input-file input{
+    opacity:0;
+    filter:alpha(opacity=0);
+    font-size:100px;
+    position:absolute;
+    top:0;
+    right:0;
+}
+.input-file {
+    overflow:hidden;
+    position:relative;
+}
+.joinbutton input{
+    background-color: transparent !important;
+    color:transparent!important;
+
+}
+
+.joinbutton:hover{
+    background-color:  rgba(26,192,234,1);
+    color: #ffffff;
+}
+.joinbutton:focus{
+    background-color:  rgba(26,192,234,1);
+    color: #ffffff;
+}
+.joinbutton:active{
+    background-color:  rgba(26,192,234,1);
+    color: #ffffff;
+}
+.joinbutton:visited{
+    color:  rgba(26,192,234,1);
+}
+.joinbutton:visited:hover{
+    background-color:   rgba(26,192,234,1);
+    color: #ffffff;
+}
+
+.joinbutton2{
+    background-color: transparent;
+    border-color: rgba(26,192,234,1);
+    color:  rgba(26,192,234,1);
+}
+
+.joinbutton2:hover{
+    background-color:  rgba(26,192,234,1);
+    color: #ffffff;
+}
+.joinbutton2:focus{
+    background-color:  rgba(26,192,234,1);
+    color: #ffffff;
+}
+.joinbutton2:active{
+    background-color:  rgba(26,192,234,1);
+    color: #ffffff;
+}
+.joinbutton2:visited{
+    color:  rgba(26,192,234,1);
+}
+.joinbutton2:visited:hover{
+    background-color:   rgba(26,192,234,1);
+    color: #ffffff;
+}
+
+
+.cybutton{
+    background-color: transparent;
+    border-color: rgba(255,183,0,1);
+    color:  rgba(255,183,0,1);
+}
+.cybutton:visited{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.cybutton:hover{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.cybutton:focus{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.cybutton:active{
+    background-color: transparent !important;
+    border:  rgba(255,183,0,1)!important;
+    color: rgba(255,183,0,1)!important;
+}
+.cybutton:visited{
+    color:  rgba(255,183,0,1);
+}
+.cybutton:visited:hover{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+
+
+.ybutton{
+    background-color: transparent;
+    border-color: rgba(255,183,0,1);
+    color:  rgba(255,183,0,1);
+}
+.ybutton:visited{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.ybutton:hover{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.ybutton:focus{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.ybutton:active{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.ybutton:visited{
+    color:  rgba(255,183,0,1);
+}
+.ybutton:visited:hover{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+
+.consultant_icon{
+    width:170px;
+    height: 170px;
+    box-shadow: 8px 8px 0px  rgba(255,183,0,1);
+}
+.classname{
+    font-size: 25px;
+    color: #000000;
+}
+.consultantname{
+    font-size: 20px;
+    color: #000000;
+}
+.text-display{
+    color: #000000;
+    font-size: 20px;
+}
+.text-display2{
+    color: #000000;
+    font-size: 10px;
+    font-weight: bold;
+}

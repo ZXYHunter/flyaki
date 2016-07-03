@@ -1,0 +1,124 @@
+/*
+2015/6/25
+*/
+
+.banner img{
+    width: 100%;
+}
+.banner a{
+    margin-top: -150px;
+}
+.joinbutton{
+    background-color: transparent;
+    border-color: rgba(255,183,0,1);
+    color: rgba(255,183,0,1);
+}
+.button:visited{
+
+}
+.joinbutton:hover{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.joinbutton:focus{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.joinbutton:active{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.joinbutton:visited{
+    color:  rgba(255,183,0,1);
+}
+.joinbutton:visited:hover{
+    background-color:  rgba(255,183,0,1);
+    color: #ffffff;
+}
+.jnbigtitle {
+    background-image: url("../src/photo/join_background.jpg");
+    height: 100%;
+}
+.jntitlebox1{
+    margin-bottom: 0px;
+    margin-left: 8%;
+    background-color:rgba(223,112,75,0.8);
+    width: 22%;
+
+}
+.jntitlebox1 h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: #ffffff;
+    font-family:"微软雅黑";
+}
+.jntitlebox3{
+    align-content: center;
+    background-color:rgba(77,157,133,0.8);
+    width: 85%;
+    margin-left: 7.5%;
+    height: 20%;
+}
+.jntitlebox3:hover{
+    background-color:rgba(223,112,75,0.8) ;
+    transition: all 0.3s;
+}
+.jntitlebox3 h1{
+
+    padding-top: 4%;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 45px;
+    color: #ffffff;
+    font-family:"微软雅黑";
+}
+.jntitlebox1 h2{
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 33px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family:"微软雅黑";
+}
+.jntitlebox2{
+
+    margin-left: 17%;
+    margin-top: 0px;
+    background-color:rgba(77,157,133,0.8);
+    width: 65%;
+}
+.jntitlebox2 h3{
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 4%;
+    text-align: left;
+    font-size: 19px;
+    line-height: 200%;
+    font-weight: bold;
+    color: #ffffff;
+    font-family:"微软雅黑";
+
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    color: #ffffff;
+    font-family:"微软雅黑";
+
+}
+.jnguide{
+    margin-left: 10%;
+    margin-top:5%;
+    height: 40%;
+}
+.jnguide img{
+    align-content: center;
+    margin-left: 10%;
+    height: 80%;
+    width: 80%;
+}
